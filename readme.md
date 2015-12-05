@@ -39,7 +39,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 
 ##Components
-- [Cart](https://github.com/tekpub/knockout-cart) - Simple browser-based shopping cart that uses local storage
+- [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
 
 ##Examples
 - [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout

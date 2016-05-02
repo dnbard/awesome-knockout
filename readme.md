@@ -24,7 +24,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Postbox](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components
 - [Deferred Updates](https://github.com/mbest/knockout-deferred-updates) - The plugin that modifies parts of Knockout’s observable/subscription system to use deferred updates
 - [Delegated Events](https://github.com/rniemeyer/knockout-delegatedEvents) - Simple and flexible plugin to do declarative event delegation
-- [Projections](https://github.com/SteveSanderson/knockout-projections) - Adds map and filter features to observable arrays
+- [Projections](https://github.com/profiscience/ko-projections) - Adds lodash FP chainability to observable arrays
 - [Viewmodel](https://github.com/coderenaissance/knockout.viewmodel) - Flexible way to create a knockout viewmodel
 - [Observable Dictionary](https://github.com/jamesfoster/knockout.observableDictionary) - An implementation of an observable dictionary
 - [Model](https://github.com/thelinuxlich/knockout.model) - A base model for Knockout.js entities

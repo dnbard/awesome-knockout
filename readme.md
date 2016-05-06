@@ -31,6 +31,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Namespaces](https://github.com/hunterloftis/knockout.namespaces) - Namespaces for Knockout.js
 - [Rest](https://github.com/frapontillo/knockout-rest) - A simple library to extend Knockout.js objects with RESTful actions
 - [Local Storage](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js
+- [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 
 ##Custom Bindings
 - [Punches](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes

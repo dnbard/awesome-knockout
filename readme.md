@@ -33,15 +33,15 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Local Storage](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js
 - [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 
-##Custom Bindings
+## Custom Bindings
 - [Punches](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes
 - [Switch Case](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
 - [Repeat](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 
-##Components
+## Components
 - [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
-##Examples
+## Examples
 - [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout

@@ -14,7 +14,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [ASP.NET MVC](https://github.com/AndreyAkinshin/knockout-mvc) - Power of Knockout.js for ASP.NET MVC
 - [Rails](https://github.com/dnagir/knockout-rails) - KnockoutJS for Rails
 - [Meteor](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge
-
+- [Ycloud](https://github.com/yonyouyc/ycloud) - Rich UI components based on KnockoutJS
 ## Plugins and libraries
 - [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS
 - [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS
